@@ -1,0 +1,7 @@
+C:\Users\carrascoja\source\repos\SpotiHitss\SpotiHitss\bin\Debug\SpotiHitss.exe.config
+C:\Users\carrascoja\source\repos\SpotiHitss\SpotiHitss\bin\Debug\SpotiHitss.exe
+C:\Users\carrascoja\source\repos\SpotiHitss\SpotiHitss\bin\Debug\SpotiHitss.pdb
+C:\Users\carrascoja\source\repos\SpotiHitss\SpotiHitss\obj\Debug\SpotiHitss.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\SpotiHitss\SpotiHitss\obj\Debug\SpotiHitss.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\SpotiHitss\SpotiHitss\obj\Debug\SpotiHitss.exe
+C:\Users\carrascoja\source\repos\SpotiHitss\SpotiHitss\obj\Debug\SpotiHitss.pdb
